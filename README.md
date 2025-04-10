@@ -1,1 +1,1 @@
-# end-to-end-ml-project-with-mlflow
+# End to End Machine Learning Project with MLFlow
