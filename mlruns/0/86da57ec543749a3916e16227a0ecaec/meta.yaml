@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haudhi/Documents/ML/Projects/end-to-end-ml-project-with-mlflow/mlruns/0/86da57ec543749a3916e16227a0ecaec/artifacts
+end_time: 1744646472155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86da57ec543749a3916e16227a0ecaec
+run_name: mercurial-worm-355
+run_uuid: 86da57ec543749a3916e16227a0ecaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744646466545
+status: 3
+tags: []
+user_id: haudhi

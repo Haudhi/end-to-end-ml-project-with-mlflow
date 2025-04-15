@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haudhi/Documents/ML/Projects/end-to-end-ml-project-with-mlflow/mlruns/0/599ebc1e6082437689bdc22d14901aa2/artifacts
+end_time: 1744687087303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 599ebc1e6082437689bdc22d14901aa2
+run_name: persistent-asp-203
+run_uuid: 599ebc1e6082437689bdc22d14901aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744687082366
+status: 3
+tags: []
+user_id: haudhi

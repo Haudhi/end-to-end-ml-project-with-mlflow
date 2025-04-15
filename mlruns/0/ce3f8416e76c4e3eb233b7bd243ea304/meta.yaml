@@ -1,0 +1,15 @@
+artifact_uri: file:///home/haudhi/Documents/ML/Projects/end-to-end-ml-project-with-mlflow/mlruns/0/ce3f8416e76c4e3eb233b7bd243ea304/artifacts
+end_time: 1744688953813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce3f8416e76c4e3eb233b7bd243ea304
+run_name: receptive-crow-360
+run_uuid: ce3f8416e76c4e3eb233b7bd243ea304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744688950046
+status: 3
+tags: []
+user_id: haudhi
